@@ -3,5 +3,5 @@
 final project description goes here ......
 
 ## Team
-- [@nakka-prajeeth]{url}
+- [@nakka-prajeeth]{https://github.com/nakka-prajeeth}
 
