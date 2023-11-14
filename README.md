@@ -1,6 +1,6 @@
 # finalproject
 
-final project description goes here .....
+final project description goes here ......
 
 ## Team
 - [@nakka-prajeeth]{url}
